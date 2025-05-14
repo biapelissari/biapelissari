@@ -155,6 +155,15 @@
 <img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=kvu4ahl9l16159mr6p9d1tsdo&count=10"/>
 </td>
 <td>
+ -------------------------------------------------------------------
+ <img width="175" alt="Profile visitors" src="https://komarev.com/ghpvc/?username=biapelissari"/>
+ <img alt="Followers" src="https://img.shields.io/github/followers/joaopauloaramuni?style=social"/>
+<img alt="Stars" src="https://img.shields.io/github/stars/joaopauloaramuni?style=social"/>
+<img alt="Forks" src="https://img.shields.io/github/forks/joaopauloaramuni/joaopauloaramuni?logo=git"/>
+<a href="https://joaopauloaramuni.github.io/image/pix10.png?raw=true" target="_blank"><img alt="Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-white?logo=buymeacoffee&logoColor=black"/></a>
+</div>
+
+-----
 <!-- <a href="https://twitter.com/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="tweets" src="https://github-readme-twitter.gazf.vercel.app/api?id=joaoaramuni"/></a> -->
 <a href="https://www.last.fm/pt/user/joaoaramuni" target="_blank"><img align="right" width="400px" height="270px" alt="lastfm" src="https://lastfm-recently-played.vercel.app/api?user=joaoaramuni&width=400"/></a>
 </td>
