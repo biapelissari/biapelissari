@@ -49,15 +49,15 @@
 
 <div align="justify">
 <p>
-- :necktie: &nbsp; Trabalho como Analista de TI há 3 ano.<br />
+- :necktie: &nbsp; Técnico em Informática com experiência em suporte técnico.<br />
 - :man_student: &nbsp; Sou estudante de SI - Sistemas de Informação.<br />
-- :briefcase: &nbsp; Tenho interesse em vagas para Dev Jr.<br />
-- :soccer:&nbsp; Sou cruzeirense, lógico! 🦊<br />
-- :basketball: &nbsp; Também gosto bastante de basquete/NBA.<br />
-- :airplane: &nbsp; Adoro viajar e conhecer novos lugares.<br />
-- :video_game: &nbsp; Gosto de ir na academia nas horas vagas.<br />
-- :policeman: &nbsp; Já servi ao exército brasileiro.<br />
-- :parrot: &nbsp; Tenho dois pets lindos.<br />
+- :briefcase: &nbsp; Busco por oportunidades para crescer junto com a empresa.<br />
+- :soccer:&nbsp; Sou cinéfila nas horas vagas 🎬<br />
+- :basketball: &nbsp; Nos finais de semana, provavelmente estou rindo com os amigos.<br />
+- :airplane: &nbsp; Viajar e descobrir novos lugares é uma das minhas maiores paixões ✈️.<br />
+- :video_game: &nbsp; Academia: onde resolvo bugs internos.<br />
+- :policeman: &nbsp; Não sei tudo, mas adoro descobrir como as coisas funcionam.<br />
+- :parrot: &nbsp; Pets fazem parte da minha rotina — tenho dois companheiros incríveis 🐾.<br />
 - :speech_balloon: &nbsp; Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br />
 - :mailbox: &nbsp; Para me encontrar, esse é meu <a href="mailto:biapr180@gmail.com" target="_blank">e-mail</a> pessoal.<br />
 
