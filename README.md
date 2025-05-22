@@ -54,8 +54,8 @@
 
 <!-- ## 📊 GitHub Stats -->
 
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biapelissari&layout=compact&theme=dark"/>
+<a href="https://wakatime.com/@bia__pelissari" target="_blank">⏱ WakaTime</a>
 
 ---
 
