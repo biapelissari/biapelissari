@@ -158,6 +158,18 @@
 
 ---
 
+<!-- ## 📈 Métricas do perfil -->
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=biapelissari" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/samoody?style=social" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/samoody?style=social" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/samoody/samoody?logo=git" alt="Forks"/>
+  
+</div>
+
+-------------
+
 <!-- ## 🎧 Spotify -->
 
 
