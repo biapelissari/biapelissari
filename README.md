@@ -54,41 +54,33 @@
 
 <!-- ## 📊 GitHub Stats -->
 
-<div>
 
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
 
-<div align="center">
 <table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-<tr>
-<td>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=biapelissari&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
-</td>
-
-<td>
-<img alt="GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biapelissari&layout=pie&theme=dark&locale=pt-br"/>
-</td>
-</tr>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=biapelissari&theme=github_dark"/>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biapelissari&theme=github_dark"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biapelissari&theme=github_dark&utcOffset=3"/>
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biapelissari&theme=github_dark"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biapelissari&theme=github_dark"/>
+    </td>
+  </tr>
 </table>
-<table>
-<tr>
- <td align="center">:octocat: <a href="https://www.githubwrapped.io/biapelissari" target="_blank">GitHub Wrapped</a></td>
- <td align="center">:watch: <a href="https://wakatime.com/@bia__pelissari">WakaTime</a></td>
-</tr>
-<tr>
-<td>
-<img alt="GitHub Trends" src="https://api.githubtrends.io/user/svg/biapelissari/repos?time_range=one_year&loc_metric=changed&theme=dark"/>
-</td>
-<td>
-<img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=bia_pelissari&theme=dark&layout=compact"/>
-</td>
 
+</div>
 ---
 
 <!-- ## 🚀 Atividade e Produtividade -->
