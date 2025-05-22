@@ -89,12 +89,31 @@
 
 ## 🎧 Spotify
 
+<!-- ## spotify -->
+<div>
 <details>
-  <summary><img height="20" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Bia's Spotify Data</summary>
-  <br/>
-  <div align="center">
-    <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=kvu4ahl9l16159mr6p9d1tsdo" alt="Spotify Card" width="400px"/>
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=kvu4ahl9l16159mr6p9d1tsdo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width="200px" height="270px"/>
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=kvu4ahl9l16159mr6p9d1tsdo&count=10" width="200px" height="270px"/>
-  </div>
+<summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Bia's Spotify Data</summary>
+<img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=kvu4ahl9l16159mr6p9d1tsdo" alt="Data Card for Spotify">
 </details>
+</div>
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
+<img alt="Spotify" width="200px" height="270px" src="https://spotify-github-profile.kittinanx.com/api/view?uid=kvu4ahl9l16159mr6p9d1tsdo&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false"/>
+</td>
+<td>
+<img alt="Spotify list" width="200px" height="270px" src="https://spotify-recently-played-readme.vercel.app/api?user=kvu4ahl9l16159mr6p9d1tsdo&count=10"/>
+</td>
+
+
+</tr>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+</table>
+</div>
