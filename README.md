@@ -54,16 +54,6 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://www.githubwrapped.io/biapelissari" target="_blank">:octocat: GitHub Wrapped</a> •
-  <a href="https://wakatime.com/@bia__pelissari" target="_blank">⏱ WakaTime</a>
-</div>
-
----
-
-## 🚀 Atividade e Produtividade
-
-<!-- ## wakatime -->
 <div>
 
 <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
@@ -98,6 +88,13 @@
 <td>
 <img alt="WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=bia_pelissari&theme=dark&layout=compact"/>
 </td>
+
+---
+
+## 🚀 Atividade e Produtividade
+
+<!-- ## wakatime -->
+
 </tr>
 <tr>
  <td align="center"></td>
