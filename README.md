@@ -1,12 +1,12 @@
 -----
-## cabeçalho
+<!-- ## cabeçalho -->
 
 <div>
 <img align="center" alt="Header" src="https://raw.githubusercontent.com/biapelissari/biapelissari/main/header_um.png"/>
 </div>
 
 -----
-## contatos
+<!-- ## contatos -->
 <div align="center">
 <table>
 <tr>
@@ -39,7 +39,7 @@
 </table>
 
 ----------------------------
-## sobre mim
+<!-- ## sobre mim -->
 
 <div>
 <div>
@@ -67,7 +67,7 @@
 </div>
 
 -----
-## wakatime
+<!-- ## wakatime -->
 <div>
 
 <img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
@@ -155,7 +155,7 @@
 </div>
 
 -----
-## spotify 
+<!-- ## spotify -->
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Bia's Spotify Data</summary>
