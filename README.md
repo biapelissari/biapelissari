@@ -1,4 +1,4 @@
-## 📌 Banner
+<!-- ## 📌 Banner -->
 
 <div align="center">
   <img alt="Banner GitHub" src="https://raw.githubusercontent.com/biapelissari/biapelissari/main/header_um.png" width="100%"/>
@@ -6,7 +6,7 @@
 
 ---
 
-## 🌐 Contatos
+<!-- ## 🌐 Contatos -->
 
 <div align="center">
   <a href="https://github.com/biapelissari" target="_blank">
@@ -31,7 +31,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+<!-- ## 👩‍💻 Sobre mim -->
 
 <div align="center">
   <img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
@@ -52,7 +52,7 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats -->
 
 <div>
 
@@ -91,7 +91,7 @@
 
 ---
 
-## 🚀 Atividade e Produtividade
+<!-- ## 🚀 Atividade e Produtividade -->
 
 <!-- ## wakatime -->
 
@@ -148,7 +148,7 @@
 
 ---
 
-## 🐍 Contribuições animadas
+<!-- ## 🐍 Contribuições animadas -->
 
 <div align="center">
   <a href="https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid" target="_blank">
@@ -158,9 +158,9 @@
 
 ---
 
-## 🎧 Spotify
+<!-- ## 🎧 Spotify -->
 
-<!-- ## spotify -->
+
 <div>
 <details>
 <summary><img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/spotify.gif?raw=true"/> Bia's Spotify Data</summary>
