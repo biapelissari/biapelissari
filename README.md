@@ -54,9 +54,11 @@
 
 <!-- ## 📊 GitHub Stats -->
 <!-- ## wakatime -->
-<div>
-<a href="https://wakatime.com/@bia__pelissari" target="_blank">⏱ WakaTime</a>
-<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
+<div align="center">
+  <a href="https://www.githubwrapped.io/biapelissari" target="_blank">:octocat: GitHub Wrapped</a> •
+  <a href="https://wakatime.com/@bia_pelissari" target="_blank">🐧 WakaTime</a>
+
+
 
 <div align="center">
 <table>
