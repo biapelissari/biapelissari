@@ -53,38 +53,7 @@
 ---
 
 <!-- ## 📊 GitHub Stats -->
-<div align="center">
 
-<table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=biapelissari&theme=github_dark" width="300px"/>
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biapelissari&theme=github_dark" width="300px"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biapelissari&theme=github_dark&utcOffset=3" width="300px"/>
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biapelissari&theme=github_dark" width="300px"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biapelissari&theme=github_dark" width="620px"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=biapelissari&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="620px"/>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 <!-- ## wakatime -->
 <div align="center">
