@@ -58,7 +58,20 @@
   <a href="https://www.githubwrapped.io/biapelissari" target="_blank">:octocat: GitHub Wrapped</a> •
   <a href="https://wakatime.com/@bia_pelissari" target="_blank">🐧 WakaTime</a>
 
+  </div>
 
+  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=biapelissari&show_icons=true&theme=dark&locale=pt-br" width="400px"/>
+  <img src="https://streak-stats.demolab.com?user=biapelissari&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="400px"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bia_pelissari&theme=dark&layout=compact" width="800px"/>
+</div>
 
 <div align="center">
 <table>
@@ -71,7 +84,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biapelissari&layout=compact&theme=dark"/>
 
 </div>
-</div>
+
 ---
 
 <!-- ## 🚀 Atividade e Produtividade -->
