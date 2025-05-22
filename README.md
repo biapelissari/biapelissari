@@ -55,8 +55,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biapelissari&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&rank_icon=percentile&theme=dark&locale=pt-br&card_width=480"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biapelissari&theme=dark&locale=pt-br&layout=pie"/>
+  <a href="https://www.githubwrapped.io/biapelissari" target="_blank">:octocat: GitHub Wrapped</a> •
+  <a href="https://wakatime.com/@bia__pelissari" target="_blank">⏱ WakaTime</a>
 </div>
 
 ---
