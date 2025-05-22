@@ -56,31 +56,7 @@
 
 
 
-<table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=biapelissari&theme=github_dark"/>
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biapelissari&theme=github_dark"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biapelissari&theme=github_dark&utcOffset=3"/>
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biapelissari&theme=github_dark"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biapelissari&theme=github_dark"/>
-    </td>
-  </tr>
-</table>
 
-</div>
 ---
 
 <!-- ## 🚀 Atividade e Produtividade -->
