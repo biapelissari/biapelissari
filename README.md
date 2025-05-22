@@ -56,7 +56,7 @@
 <!-- ## wakatime -->
 <div align="center">
   <a href="https://www.githubwrapped.io/biapelissari" target="_blank">:octocat: GitHub Wrapped</a> •
-  <a href="https://wakatime.com/@bia_pelissari" target="_blank">🐧 WakaTime</a>
+ 
 
   </div>
 
@@ -70,6 +70,7 @@
 <br/>
 
 <div align="center">
+   <a href="https://wakatime.com/@bia_pelissari" target="_blank">🐧 WakaTime</a>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bia_pelissari&theme=dark&layout=compact" width="800px"/>
 </div>
 
