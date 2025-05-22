@@ -70,7 +70,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biapelissari&layout=compact&theme=dark"/>
 
-
+</div>
+</div>
 ---
 
 <!-- ## 🚀 Atividade e Produtividade -->
