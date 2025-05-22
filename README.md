@@ -64,7 +64,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=biapelissari&show_icons=true&theme=dark&locale=pt-br" width="400px"/>
-  <img src="https://streak-stats.demolab.com?user=biapelissari&theme=dark&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biapelissari&layout=compact&theme=dark"/>
 </div>
 
 <br/>
@@ -78,10 +78,9 @@
 <tr>
  <td align="center" colspan="3"></td>
 </tr> 
-<tr>
-<td>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biapelissari&layout=compact&theme=dark"/>
+
+
 
 </div>
 
