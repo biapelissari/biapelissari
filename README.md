@@ -53,9 +53,21 @@
 ---
 
 <!-- ## 📊 GitHub Stats -->
+<!-- ## wakatime -->
+<div>
+<a href="https://wakatime.com/@bia__pelissari" target="_blank">⏱ WakaTime</a>
+<img height="20" alt="GIF" src="https://joaopauloaramuni.github.io/image/graphic.gif?raw=true"/>GitHub Stats:
+
+<div align="center">
+<table>
+<tr>
+ <td align="center" colspan="3"></td>
+</tr> 
+<tr>
+<td>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biapelissari&layout=compact&theme=dark"/>
-<a href="https://wakatime.com/@bia__pelissari" target="_blank">⏱ WakaTime</a>
+
 
 ---
 
