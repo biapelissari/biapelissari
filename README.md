@@ -33,29 +33,30 @@
 
 <!-- ## 👩‍💻 Sobre mim -->
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <!-- Texto à esquerda -->
-  <div style="max-width: 60%;">
-    <p align="justify">
-      - 💻 Técnico em Informática com experiência em suporte técnico.<br/>
-      - 🎓 Estudante de Sistemas de Informação.<br/>
-      - 🚀 Buscando oportunidades para crescer com a empresa.<br/>
-      - 🎬 Cinéfila nas horas vagas.<br/>
-      - 😄 Final de semana é dia de rir com os amigos.<br/>
-      - ✈ Apaixonada por viagens e descobertas.<br/>
-      - 🏋‍♀ Academia: onde resolvo bugs internos.<br/>
-      - 🔍 Curiosa por natureza: adoro descobrir como tudo funciona.<br/>
-      - 🐾 Pets fazem parte do meu dia a dia.<br/>
-      - 💌 Contato direto? <a href="mailto:biapr180@gmail.com">Me envie um e-mail</a>.<br/>
-    </p>
-  </div>
+<table>
+  <tr>
+    <!-- Coluna do texto -->
+    <td align="left" style="vertical-align: top;">
+      <p align="justify">
+        - 💻 Técnico em Informática com experiência em suporte técnico.<br/>
+        - 🎓 Estudante de Sistemas de Informação.<br/>
+        - 🚀 Buscando oportunidades para crescer com a empresa.<br/>
+        - 🎬 Cinéfila nas horas vagas.<br/>
+        - 😄 Final de semana é dia de rir com os amigos.<br/>
+        - ✈ Apaixonada por viagens e descobertas.<br/>
+        - 🏋‍♀ Academia: onde resolvo bugs internos.<br/>
+        - 🔍 Curiosa por natureza: adoro descobrir como tudo funciona.<br/>
+        - 🐾 Pets fazem parte do meu dia a dia.<br/>
+        - 💌 Contato direto? <a href="mailto:biapr180@gmail.com">Me envie um e-mail</a>.<br/>
+      </p>
+    </td>
 
-  <!-- GIF à direita -->
-  <div>
-    <img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
-  </div>
-</div>
-
+    <!-- Coluna do GIF -->
+    <td align="right" style="vertical-align: top;">
+      <img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
+    </td>
+  </tr>
+</table>
 ---
 
 <!-- ## 📊 GitHub Stats -->
