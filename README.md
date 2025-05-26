@@ -35,8 +35,10 @@
 <div align="center">
 <table>
   <tr>
-    <!-- Coluna do texto -->
-    <td align="left" style="vertical-align: top;">
+    <img align="left" height="20" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/soulgem.gif?raw=true"/><p align="left">Meus interesses pessoais:</p>
+
+  
+   <td align="left" style="vertical-align: top;">
       <p align="justify">
         - 💻 Técnico em Informática com experiência em suporte técnico.<br/>
         - 🎓 Estudante de Sistemas de Informação.<br/>
