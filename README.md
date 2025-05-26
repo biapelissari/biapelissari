@@ -69,8 +69,8 @@
 
 
 <!-- GitHub Wrapped link centralizado -->
-<div align="center"><br>
-  <a href="https://www.githubwrapped.io/biapelissari" target="_blank">🐙 GitHub Wrapped</a> <br>
+<div align="center">
+  <a href="https://www.githubwrapped.io/biapelissari" target="_blank">🐙 GitHub Wrapped</a> 
 </div>
 
 <!-- Estatísticas GitHub + Linguagens mais usadas, lado a lado -->
