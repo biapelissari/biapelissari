@@ -55,7 +55,7 @@
 
   
  <td align="right" style="vertical-align: top;">
-      <img src="https://github.com/biapelissari/biapelissari/blob/main/gif_git.gif" width="300px" height="300px"/>
+      <img src="https://github.com/biapelissari/biapelissari/blob/main/fundo.jpg" width="300px" height="300px"/>
     </td>
    
    
