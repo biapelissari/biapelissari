@@ -96,6 +96,7 @@
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bia__pelissari&theme=dark&layout=compact" width="800px"/>
 </div>
+
 ---
 
 <!-- ## 🚀 Atividade e Produtividade -->
