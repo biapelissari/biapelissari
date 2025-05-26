@@ -35,7 +35,7 @@
 <div align="center">
 <table>
   <tr>
-    <img align="left" height="20" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/soulgem.gif?raw=true"/><p align="left">Meus interesses pessoais:</p>
+    <img  height="20" alt="GIF" src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/soulgem.gif?raw=true"/><p align="left">Meus interesses pessoais:</p>
 
   
    <td align="left" style="vertical-align: top;">
