@@ -68,38 +68,33 @@
 <!-- ## 📊 GitHub Stats -->
 
 
-<!-- ## wakatime -->
+<!-- GitHub Wrapped link centralizado -->
 <div align="center">
-  <a href="https://www.githubwrapped.io/biapelissari" target="_blank">:octocat: GitHub Wrapped</a> 
- 
+  <a href="https://www.githubwrapped.io/biapelissari" target="_blank">🐙 GitHub Wrapped</a> 
+</div>
 
-  </div>
-
-  
-
+<!-- Estatísticas GitHub + Linguagens mais usadas, lado a lado -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=biapelissari&show_icons=true&theme=dark&locale=pt-br" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biapelissari&layout=compact&theme=dark"/>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=biapelissari&show_icons=true&theme=dark&locale=pt-br" width="400px"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biapelissari&layout=compact&theme=dark" width="300px"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
-<a href="https://wakatime.com/@bia__pelissari" target="_blank">🐧 WakaTime</a>
+
+<!-- WakaTime link + estatísticas centralizadas -->
 <div align="center">
-   
+  <a href="https://wakatime.com/@bia__pelissari" target="_blank">🐧 WakaTime</a>
+  <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=bia__pelissari&theme=dark&layout=compact" width="800px"/>
 </div>
-
-<div align="center">
-<table>
-<tr>
- <td align="center" colspan="3"></td>
-</tr> 
-
-
-
-
-</div>
-
 ---
 
 <!-- ## 🚀 Atividade e Produtividade -->
