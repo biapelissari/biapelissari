@@ -51,10 +51,12 @@
       </p>
     </td>
 
-    <!-- Coluna do GIF -->
-    <td align="right" style="vertical-align: top;">
+    <!-- Coluna Gif -->
+ <td align="right" style="vertical-align: top;">
       <img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
     </td>
+   
+   
   </tr>
 </table>
 ---
