@@ -72,6 +72,7 @@
 <div align="center">
   <a href="https://www.githubwrapped.io/biapelissari" target="_blank">🐙 GitHub Wrapped</a> 
 </div>
+<br/>
 
 <!-- Estatísticas GitHub + Linguagens mais usadas, lado a lado -->
 <div align="center">
