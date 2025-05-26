@@ -51,9 +51,9 @@
       </p>
     </td>
 
-    <!-- Coluna Gif -->
+  
  <td align="right" style="vertical-align: top;">
-      <img src="https://github.com/DavidsonFG/DavidsonFG/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
+      <img src="https://github.com/biapelissari/biapelissari/blob/main/gif_git.gif" width="300px" height="300px"/>
     </td>
    
    
