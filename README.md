@@ -29,10 +29,10 @@
   </a>
 </div>
 
----
+-----
 
 <!-- ## 👩‍💻 Sobre mim -->
-
+<div align="center">
 <table>
   <tr>
     <!-- Coluna do texto -->
@@ -59,7 +59,9 @@
    
   </tr>
 </table>
----
+</div>
+
+-----
 
 <!-- ## 📊 GitHub Stats -->
 
