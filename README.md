@@ -29,6 +29,10 @@
   </a>
 </div>
 
+<div align="justify">
+<i><b>Olá</b> :wave:, sou a <code>Beatriz</code>, tenho 19 anos, moro em BH e sou estudante da aréa de Tecnologia, estou no 2° período de Sistemas De Informação  do <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a></i>👨🏻‍💻<br />
+</div>
+
 -----
 
 <!-- ## 👩‍💻 Sobre mim -->
