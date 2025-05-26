@@ -69,7 +69,7 @@
 
 
 <!-- GitHub Wrapped link centralizado -->
-<div align="center">
+<div align="center"><br>
   <a href="https://www.githubwrapped.io/biapelissari" target="_blank">🐙 GitHub Wrapped</a> 
 </div>
 
