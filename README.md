@@ -102,7 +102,7 @@
 <!-- ## 🚀 Atividade e Produtividade -->
 
 <!-- ## wakatime -->
-
+<div align="center">
 </tr>
 <tr>
  <td align="center"></td>
@@ -151,7 +151,7 @@
 </table>
 
 </div>
-
+</div>
 
 ---
 
