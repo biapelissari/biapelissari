@@ -54,6 +54,7 @@
         - 🏋‍♀ Academia: onde resolvo bugs internos.<br/>
         - 🔍 Curiosa por natureza: adoro descobrir como tudo funciona.<br/>
         - 🐾 Pets fazem parte do meu dia a dia.<br/>
+        - 💬 Pergunte-me sobre qualquer coisa, adoro ajudar pessoas.<br/>
         - 💌 Contato direto? <a href="mailto:biapr180@gmail.com">Me envie um e-mail</a>.<br/>
       </p>
     </td>
